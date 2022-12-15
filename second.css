@@ -1,0 +1,117 @@
+.container-fluid .navbar-brand{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-item .nav-link{
+    margin-left:10px;
+}
+.navbar-nav .nav-link{
+    margin-left: 60px;
+}
+.sample{
+    
+    height: 42px;
+    width: 134px;
+    margin-right: -2px;
+    display: inline-block;
+}
+.cloud{
+    text-decoration: none;
+    float: right;
+    width: 34px;
+    margin-top: 10px;
+    margin-left: 3px;
+    
+}
+.source{
+    margin-top: 53px;
+    margin-left: 12px;
+    height: 287px;
+    width: 13%;
+    
+}
+.text{
+    
+    font-weight: bold;
+    font-size: 15px;
+}
+.slide{
+    left: 2px;
+    position: absolute;
+}
+
+    
+
+.hello{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.container{
+    top: 105px;
+    left: 131px;
+    position: absolute;
+    height: 1000px;
+    width: 60px;
+    
+    
+}
+.card-body{
+    background-image: linear-gradient(to right, rgb(238, 162, 175),rgb(221, 100, 120));
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.row .col-md-4{
+    justify-content: space-around;
+}
+.eye{
+    
+    height: 54px;
+    width: 97px;
+    float: left;
+    margin-left: 14px;
+    margin-top: 10px;
+    color: white;
+}
+
+.card{
+    transition:1s;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow:2px 2px 2px 2px rgb(160, 157, 157);
+}
+
+footer{
+    height: 186px;
+    width:100%;
+    background-color: black;
+    margin-top: 1037px;
+    
+    
+    
+}
+.third{
+    margin-left: 434px;
+}
+.over{
+    
+    color: white;
+    font-size: medium;
+   
+}
+.drive{
+    top: 147px;
+    left: -363px;
+    
+    position: relative
+}
